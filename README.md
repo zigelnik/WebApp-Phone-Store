@@ -85,8 +85,7 @@ MONGODB_URL<br />
 
 
 ## Demo
-[<img src="https://img001.prntscr.com/file/img001/Zjm8gmCOQ8SoZOZf_br1HA.png" width="70%">](https://www.veed.io/embed/19b1ee62-63e7-4ea0-a3af-120918d50327)
-
+<a href="https://www.veed.io/embed/19b1ee62-63e7-4ea0-a3af-120918d50327"><img src="https://i.ibb.co/kXpvRHf/phonebook.png" alt="phonebook" border="0" /></a>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
